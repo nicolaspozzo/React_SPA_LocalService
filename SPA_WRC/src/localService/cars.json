@@ -1,0 +1,164 @@
+
+    [
+        {
+            "id": 1,
+            "name": "Citroën C4 WRC",
+            "years": "(2007-2010)",
+            "brief": "El Citroën C4 WRC es un vehículo de rally basado en el Citroën C4 con homologación World Rally Car. Ha sido utilizado por el equipo oficial de Citroën, en el Campeonato Mundial de Rally durante los años 2007 y 2010. Debutó en el Rally de Montecarlo de 2007 y se introdujo como sustituto del Citroën Xsara WRC,1​ logrando mejorar los números de su antecesor al vencer en 36 rallyes y lograr: cuatro títulos de Pilotos y tres de constructores. ",
+            "img": "Citroen C4 WRC.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Citroën Xsara WRC",
+            "years": "(2001-2006)",
+            "brief": "El Citroën Xsara WRC es un vehículo de rally basado en el Citroën Xsara pero con homologación World Rally Car. Ha sido utilizado por el equipo oficial de Citroën, el Citroën WRT en el Campeonato Mundial de Rally durante los años 2001 y 2006.\n                    Es uno de los vehículos de rally con más éxitos, fue el primer vehículo en conseguir el Campeonato del mundo en su primera temporada completa.1​ Ha obtenido 3 títulos de Constructores, 3 de Pilotos, 32 victorias, 28 segundos puestos y 18 terceros puestos. La primera victoria fue para Jesús Puras en el Rally de Córcega de 2001 y la última para Loeb en el Rally de Chipre en 2006. ",
+            "img": "Citroen Xsara WRC.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ford Escort WRC",
+            "years": "(1997-1998)",
+            "brief": "El Ford Escort WRC es un vehículo de rally basado en el Ford Escort RS Cosworth con homologación World Rally Car. Fue construido por M-Sport para competir en el Campeonato Mundial de Rally por el equipo Ford World Rally Team. Sustituyó a la versión grupo A que la marca utilizaba desde 1993 y posteriormente fue sustituido por el Ford Focus WRC en 1999.\n                    Compitió durante las temporadas 1997 y 1998, teniendo de pilotos a Carlos Sainz, Juha Kankkunen, Bruno Thiry, Ari Vatanen y Armin Schwarz. Debutó en el Rally de Montecarlo y tan solo obtuvo dos victorias: en el Rally Acrópolis e Indonesia de 1997 de la mano de Sainz. ",
+            "img": "Ford Escort WRC.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Ford Focus RS WRC",
+            "years": "(1999-2010)",
+            "brief": "El Ford Focus WRC es un vehículo de rally basado en el Ford Focus con homologación World Rally Car. Fue diseñado y construido por Ford en conjunto con la empresa británica M-Sport y fue utilizado por el equipo Ford World Rally Team en el Campeonato Mundial de Rally durante los años 1999 y 2010 en sustitución del Ford Escort WRC, automóvil que había sido el primer modelo World Rally Car de la marca y con el que había competido entre 1997 y 1998. Hizo su debut en el Rally de Montecarlo de 1999, participó durante doce años como oficial en un total de ciento setenta y tres pruebas logrando cuarenta y cuatro victorias, ciento cuarenta y ocho podios y dos títulos de constructores, en 2006 y 2007. Se construyó sobre el chasis de la primera y la segunda generación del modelo de serie y contó con diez evoluciones diferentes. Su última aparición oficial fue en el Rally de Gran Bretaña de 2010 y en 2011 el equipo Ford lo sustituyó por el Ford Fiesta RS WRC.\n                    Además del equipo oficial también fue utilizado por varios equipos privados como el Stobart M-Sport Ford Rally Team. ",
+            "img": "Ford Focus WRC.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Hyundai Accent WRC",
+            "years": "(2000-2003)",
+            "brief": "El Hyundai Accent WRC es un automóvil de carreras construido por Hyundai en colaboración con Motor Sport Developments (MSD) basado en el Hyundai Accent con homologación World Rally Car y concebido para participar en el Campeonato Mundial de Rally. Debutó en el Rally de Suecia de 2000 y participó desde ese año hasta 2003 en un total 52 pruebas con pilotos como Kenneth Eriksson, Alister McRae, Piero Liatti, Armin Schwarz o Freddy Loix. Con este vehículo la marca coreana debutó en la máxima categoría pero sus discretos resultados, debido al poco tiempo de desarrollo y a la falta de presupuesto, la llevaron a abandonar el campeonato a mediados de la temporada 2003 y por ende con la vida deportiva del Hyundai Accent WRC en el mundial. No logró ningún podio ni ninguna victoria, siendo sus mejores resultados dos cuartos puestos, los conseguidos por Eriksson en Australia de 2000 y por McRae en RAC de 2001. Contó con un total de tres evoluciones y su falta de competitividad se vio reflejada cuando fue superado en alguna prueba por vehículos del grupo N y en otras competía contra WRC privados muy lejos del resto de World Rally Cars oficiales",
+            "img": "Hyundai Accent WRC.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Mitsubishi Lancer WRC",
+            "years": "(2001-2005)",
+            "brief": "El Mitsubishi Lancer WRC es un vehículo de rally basado en el Mitsubishi Lancer Evolution con la homologación World Rally Car. Hizo su debut en 20011​ y participó en el Campeonato Mundial de Rally hasta 2005.\n                    Fue construido por la empresa inglesa Ralliart para la marca Mitsubishi que compitió en el Mundial de Rally durante los años 1982 y 2005 con el equipo Mitsubishi Ralliart WRT. Anteriormente el equipo ya había utilizado el Mitsubishi Lancer Evolution pero como Grupo A. Contó con tres evoluciones durante su carrera: Lancer WRC, Lancer WRC04 y Lancer WRC05. ",
+            "img": "Mitsubishi Lancer WRC.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Peugeot 206 WRC",
+            "years": "(1999-2003)",
+            "brief": "El Peugeot 206 WRC es un vehículo de rally basado en el Peugeot 206 con homologación World Rally Car. Fue construido por Peugeot para participar en el Campeonato Mundial de Rally en el equipo oficial, el Peugeot Sport, entre 1999 y 2003 donde logró tres campeonatos de constructores y dos de pilotos, ambos ganados por Marcus Grönholm. El 206 WRC tuvo cuatro evoluciones y logró un total de veinticuatro victorias y sesenta y cinco podios en el mundial. ",
+            "img": "Peugeot 206 WRC.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Peugeot 307 WRC",
+            "years": "(2004-2005)",
+            "brief": "El Peugeot 307 WRC es un vehículo de rally basado en el Peugeot 307 con homologación World Rally Car. Fue construido por Peugeot para participar en el Campeonato del Mundo de Rally en el equipo oficial, el Peugeot World Rally Team.\n                    Participó en las temporadas 2004 y 2005 obteniendo tres victorias: Finlandia (2) y Japón, de la mano de Marcus Gronholm. También fue utilizado por el equipo privado OMV Peugeot Norway1​ en la temporada 2006, obteniendo como mejor resultado un segundo puesto en el Rally de Gran Bretaña de la mano de Manfred Stohl. ",
+            "img": "Peugeot 307 WRC.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Seat Córdoba WRC",
+            "years": "(1998-2000)",
+            "brief": "El SEAT Córdoba WRC es un vehículo de rally basado en el SEAT Córdoba con homologación World Rally Car. Fue construido por SEAT para participar en el Campeonato del Mundo de Rally en el equipo oficial, el SEAT World Rally Team que es gestionado por su departamento deportivo, SEAT Sport. Debutó en el Rally de Finlandia de 1998 y participó desde ese año hasta 2000 con pilotos como Harri Rovanpera, Oriol Gómez, Piero Liatti, Didier Auriol y Toni Gardemeister. Nunca consiguió una victoria pero si tres podios: en Nueva Zelanda y Gran Bretaña de 1999 y en el Safari de 2000. Contó con tres evoluciones y su última participación oficial fue en el Rally de Gran Bretaña de 2000",
+            "img": "SEAT Córdoba WRC.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Škoda Fabia WRC",
+            "years": "(2003-2005)",
+            "brief": "El Škoda Fabia WRC es un automóvil de carreras construido por Škoda basado en el Škoda Fabia con homologación World Rally Car y pensado para participar en el Campeonato Mundial de Rally. Debutó en el Rally de Alemania de 2003 y participó de manera oficial hasta la temporada 2007 en un total de treinta pruebas aunque no consiguió ninguna victoria ni podios, su mejor resultado fue un sexto puesto en el Rally de Córcega de 2005 con el francés Alexandre Bengué como autor. Posteriormente siguió apareciendo en manos de pilotos privados con resultados modestos. Entre los pilotos que lo pilotaron destacaron Didier Auriol, Toni Gardemeister, Armin Schwarz, Jani Paasonen, Roman Kresta, Mikko Hirvonen, Colin McRae o Jan Kopecky.1​\n                    A pesar de los resultados obtenidos, este modelo sirvió de base para el Škoda Fabia S2000, vehículo desarrollado en 2008 y que participó en diversas pruebas y campeonatos internacionales, como el IRC o el Campeonato de Europa de Rally donde logró varias victorias y títulos",
+            "img": "Skoda Fabia WRC.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Škoda Octavia WRC",
+            "years": "(1999-2003)",
+            "brief": "El Škoda Octavia WRC es un vehículo de rally basado en el Škoda Octavia con homologación World Rally Car. Fue construido por Škoda para competir en el Campeonato Mundial de Rally entre 1999 y 2003. El Skoda Octavia debutó en el Rally de Montecarlo de 1999 y contó con tres evoluciones: Octavia WRC, Octavia WRC Evo2 y Octavia WRC Evo3. ",
+            "img": "Skoda Octavia WRC.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Subaru Impreza WRC",
+            "years": "(1997-2008)",
+            "brief": "El Subaru Impreza WRC es un vehículo de rally basado en el Subaru Impreza con homologación World Rally Car. Fue usado principalmente por el equipo oficial de Subaru en el mundial y por equipos privados tanto en el mundial como en otras competiciones. Hizo su debut en 1994 y participó en el Campeonato Mundial de Rally hasta 2008.\n                    Fue construido por la empresa inglesa Prodrive, para el equipo Subaru World Rally Team que compitió en el Mundial desde 1994 hasta 2008. La marca japonesa ya había usado el Subaru Impreza pero como Grupo A. Este vehículo que ha tenido 12 evoluciones,1​ ha conseguido 35 victorias y tres títulos: tres de pilotos (McRae 1995, Burns 2001, Solberg 2003) y tres de constructores (1995-1996-1997). ",
+            "img": "Subaru Impreza WRC.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Suzuki SX4 WRC",
+            "years": "(2007-2008)",
+            "brief": "El Suzuki SX4 WRC es un vehículo de rally basado en el Suzuki SX4 con homologación World Rally Car. Fue construido por Suzuki para competir en el Campeonato Mundial de Rally entre 2007 y 2008. ",
+            "img": "Suzuki SX4 WRC.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Toyota Corolla WRC",
+            "years": "(1997-1999)",
+            "brief": "El Toyota Corolla es un vehículo de rally basado en el Toyota Corolla con homologación World Rally Car. Fue utilizado por el equipo oficial de Toyota desde 1997 hasta 1999. Debutó en el Rally de Finlandia de 1997 y obtuvo un título de constructores en 1999, cuatro victorias y treinta podios.",
+            "img": "Toyota Corolla WRC.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Citroën DS3 WRC",
+            "years": "(2011 - 2016 )",
+            "brief": "El Citroën DS3 WRC es un vehículo de rally basado en el Citroën DS3 con homologación World Rally Car. Fue diseñado y construido por Citroën para competir en el Campeonato Mundial de Rally en el equipo Citroën World Rally Team como sustituto del Citroën C4 WRC, que había sido usado por el equipo francés desde 2007 hasta 2010. Participó en un total de 67 pruebas de manera oficial entre 2011 y 2016 logrando un total de 26 victorias, 67 podios y los títulos de pilotos y constructores en 2011 y 2012. Además de Citroën también fue utilizado ocasionalmente por pilotos privados. ",
+            "img": "Citroen DS3 WRC.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Ford Fiesta RS WRC",
+            "years": "(2011 - 2016",
+            "brief": "El Ford Fiesta RS WRC es un vehículo de rally basado en el Ford Fiesta con homologación World Rally Car. Fue diseñado y construido por la empresa británica M-Sport conjuntamente con Ford Europa y utilizado por el equipo Ford World Rally Team para competir en el Campeonato Mundial de Rally. Debutó en el Rally de Suecia de 2011 y sustituyó al Ford Focus RS WRC, coche que la marca había utilizado desde 1999 hasta 2010. Fue junto al Citroën DS3 WRC uno de los primeros vehículos en ser homologados en la generación de los World Rally Car basados en los Super 2000 e introducidos en 2011.1​ La propia empresa encargada de su diseño también desarrolló el Ford Fiesta S2000 automóvil que desarrolló con anterioridad y que sirvió de base para la versión WRC. ",
+            "img": "Ford Fiesta RS WRC.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Mini John Cooper Works WRC",
+            "years": "(2011 - 2012)",
+            "brief": "El Mini John Cooper Works WRC es un vehículo de rally basado en el MINI con homologación World Rally Car. Fue construido por Prodrive para BMW para competir en el Campeonato Mundial de Rally dentro del equipo oficial: Mini WRC Team. En un principio se le llamó Mini Countryman WRC, pero antes de hacer su estreno en el WRC adaptó su nombre definitivo. Se presentó en el Salón del Automóvil de París en 2011",
+            "img": "Mini John Cooper Works WRC.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Volkswagen Polo R WRC",
+            "years": "(2013 - 2016)",
+            "brief": "El Volkswagen Polo R WRC es un vehículo de rally basado en el Volkswagen Polo con homologación World Rally Car. Fue construido por Volkswagen para competir en el Campeonato Mundial de Rally y fue el cuarto vehículo de la generación de los WRC con motor 1,6 L, basados en los Super 2000 e introducidos en 2011, tras el Citroën DS3 WRC, el Ford Fiesta RS WRC y el Mini Cooper WRC. El automóvil se construyó sobre el chasis de la quinta generación del Polo, comercializado desde 2009, y posee un motor de 1.6 cc con turbo, tracción a las cuatro ruedas y caja de cambios secuencial de seis marchas. ",
+            "img": "Volkswagen Polo R WRC.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Hyundai i20 WRC",
+            "years": "(2014 - 2016)",
+            "brief": "El Hyundai i20 WRC es un vehículo de rally basado en el Hyundai i20 con homologación World Rally Car. Fue construido por Hyundai para competir en el Campeonato Mundial de Rally y presentado en el Salón del Automóvil de París de 2012.2​3​ El regreso de la marca a la competición estaba inicialmente previsto para 2013, con un calendario reducido, aunque finalmente se produjo en la temporada 2014 por lo que el i20 debutó en el Rally de Montecarlo de 2014.1​4​ El i20 es el quinto modelo de los World Rally Cars de nueva generación con motor 1.6 cc, introducidos en 2011, tras el Citroën DS3 WRC, el Ford Fiesta RS WRC, el Mini John Cooper Works WRC y el VW Polo R WRC. Supuso para la marca el segundo WRC que desarrolla, tras el Hyundai Accent WRC vehículo que compitió entre 2000 y 2003. ",
+            "img": "Hyundai i20 WRC.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Toyota Yaris WRC",
+            "years": "(2017 -)",
+            "brief": "El Toyota Yaris WRC es un World Rally Car diseñado por el Toyota Gazoo Racing WRT para competir en el Campeonato Mundial de Rally.1​ El coche está basado en el Toyota Yaris, y será el primer coche con el que Toyota haya competido en el WRC desde que se retiró del campeonato al final de la temporada 1999 para centrarse en su Prototipo de Le Mans y los programas de Fórmula 1. El coche fue conducido en su primera temporada por Juho Hänninen, Esapekka Lappi y Jari-Matti Latvala",
+            "img": "Toyota Yaris WRC.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Hyundai i20 Coupe WRC",
+            "years": "(2017 -)",
+            "brief": "El Hyundai i20 Coupe WRC1​ (anteriormente conocido como Hyundai Nueva Generación i20 WRC) es un World Rally Car construido por Hyundai para su uso en el Campeonato Mundial de Rally a partir de 2017.2​ Se basa en el Hyundai i20 subcompact car, y es el sucesor del Hyundai i20 WRC utilizado entre 2014 y 2015. Tres i20 Coupé WRC son utilizados en la temporada 2017, conducidos por Thierry Neuville,3​ Hayden Paddon4​ y Dani Sordo",
+            "img": "Hyundai i20 Coupe WRC.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Citroën C3 WRC",
+            "years": "(2017 - 2019)",
+            "brief": "El Citroën C3 WRC es un automóvil de rally diseñado y desarrollado por Citroën World Rally Team para competir en el Campeonato del Mundo de Rally. Se construyó sobre el Citroën C3 y sustituyó al Citroën DS3 WRC.1​ El C3 WRC hizo su debut al comienzo de la temporada 2017, es manejado por Craig Breen,2​ Stéphane Lefebvre y Kris Meeke,2​3​ con Khalid Al Qassimi entrando en un cuarto coche en algunos rallys seleccionados ",
+            "img": "Citroen C3 WRC.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Ford Fiesta WRC",
+            "years": "(2017 -)",
+            "brief": "El Ford Fiesta WRC es un World Rally Car construido por el M-Sport World Rally Team para ser usado en el World Rally Championship a partir de 2017.1​ n 2​ Está basado en el Ford Fiesta de calle y reemplazó al Ford Fiesta RS WRC, que compitió entre 2011 y 2016. Fue construido según las nuevas regulaciones World Rally Car presentadas en 2017. ",
+            "img": "Ford Fiesta WRC.jpg"
+        }
+    ]

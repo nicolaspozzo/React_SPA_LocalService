@@ -1,0 +1,11 @@
+
+#app{
+    
+}
+
+.card-columns {    
+    column-count: 4;        
+}
+.wrap{
+    margin: 30px; 
+}

@@ -1,0 +1,27 @@
+#carCard {}
+
+.card-img-top {
+
+    height: auto;
+}
+
+.card-body {
+    color: black;
+}
+
+.card-text {
+    height: 200px;
+    overflow-y: hidden; 
+    text-align: justify;    
+}
+
+#myBtn:hover .seeMore {
+    color: white;
+}
+
+summary{
+    color:blue;
+}
+details{    
+    text-align: justify;
+}

@@ -1,0 +1,14 @@
+
+#navBar{
+
+}
+
+#logo{
+    width: 55px;    
+    height: 55px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+#logo:hover{
+    border: 2px solid white;
+}
