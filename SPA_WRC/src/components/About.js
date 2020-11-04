@@ -8,8 +8,8 @@ export default class About extends Component {
             <div id="about">
                 <div className="container">
                 <div className="jumbotron">
-                    <h1 className="display-4">Simple Page Aplication</h1>
-                    <p className="lead">This is a SPA using React and practice with a local service</p>
+                    <h1 className="text-center">Simple Page Aplication</h1>
+                    <p className="text-center">This is a SPA using React and practice with a local service</p>
                     
                 </div>
                 </div>

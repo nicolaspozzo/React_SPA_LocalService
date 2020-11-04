@@ -8,7 +8,7 @@ export default class Home extends Component {
             <div id="home">
                <div className="container">
                 <div className="jumbotron">
-                    <h1 className="text-center">WRC</h1>
+                    <h1 className="text-center">World Rally Car</h1>
                     <p className="text-center"> Get information about most famous rally cars </p>
                                         
                 </div>

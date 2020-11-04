@@ -4,3 +4,8 @@
     color:black; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.text-center {
+    text-align: center;
+    text-transform: uppercase;
+}
